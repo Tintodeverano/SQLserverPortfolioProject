@@ -1,9 +1,20 @@
-This is a SQL project that aims to showcase a few basic skills a data analyst can go through in SQL. (Extracting, Transforming, Loading, cleaning and preparing Views for dashboarding)
+# SQL Data Exploration — Covid-19 Dataset
 
-The data set:
-- Contains data relating to covid 19 cases worldwide and their progress through time, it is a vast data set.
-- Is cleaned and transformed with sql
-- Samples of view creation, joins, temp table ... etc 
+Exploratory data analysis project using SQL, covering the full data pipeline from raw data to dashboard-ready views.
 
+## What this covers
+- Data extraction and transformation
+- Data cleaning and filtering
+- Joins, temp tables and CTEs
+- View creation prepared for Tableau visualisation
 
-The last step would be to visualise the views this is presented in my Tableau link provided in my portfolio. 
+## Dataset
+Worldwide Covid-19 cases dataset tracking infection rates, death counts and vaccination progress across countries and continents over time.
+
+## Skills demonstrated
+- SQL querying and data manipulation
+- Aggregations, window functions, rolling totals
+- Temp tables and reusable views
+- Preparing structured outputs for BI tools
+
+David Zavala
